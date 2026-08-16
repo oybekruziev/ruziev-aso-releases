@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Ruziev ASO Searcher Updates</title>
-    <link>https://github.com/oybekruziev/ruziev-aso-releases</link>
-    <description>Signed updates for Ruziev ASO Searcher.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ruziev ASO Searcher Updates</title>
+        <link>https://github.com/oybekruziev/ruziev-aso-releases</link>
+        <description>Signed updates for Ruziev ASO Searcher.</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 16 Aug 2026 19:59:17 +0000</pubDate>
+            <link>https://github.com/oybekruziev/ruziev-aso-releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/oybekruziev/ruziev-aso-releases/main/Ruziev-ASO-Searcher-1.0.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/oybekruziev/ruziev-aso-releases/releases/download/v1.0.0/Ruziev-ASO-Searcher-1.0.0.zip" length="3048393" type="application/octet-stream" sparkle:edSignature="UnnIY0kLx5UpuzWsczMTKkpe1VEmjhH33ZjoGj27UwPH/J+IApasoCqGz2VQoG6fqXdtmc+gDRi0fkV7zZmnCg=="/>
+        </item>
+    </channel>
 </rss>

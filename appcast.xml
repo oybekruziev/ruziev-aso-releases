@@ -6,6 +6,16 @@
         <description>Signed updates for Ruziev ASO Searcher.</description>
         <language>en</language>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 17 Aug 2026 08:39:54 +0000</pubDate>
+            <link>https://github.com/oybekruziev/ruziev-aso-releases</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/oybekruziev/ruziev-aso-releases/main/Ruziev-ASO-Searcher-1.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/oybekruziev/ruziev-aso-releases/releases/download/v1.1.0/Ruziev-ASO-Searcher-1.1.0.zip" length="3779240" type="application/octet-stream" sparkle:edSignature="eyUF3fIaphK4vdZ0UNjr2Et+3XLYvCWgyalkeC4uLUpF2tdpZthMyn0JDkzye49xeTQRP1tAHY13m27i9cMLBA=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sun, 16 Aug 2026 20:23:14 +0000</pubDate>
             <link>https://github.com/oybekruziev/ruziev-aso-releases</link>

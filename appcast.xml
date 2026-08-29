@@ -6,6 +6,16 @@
         <description>Signed updates for Ruziev ASO Searcher.</description>
         <language>en</language>
         <item>
+            <title>1.1.8</title>
+            <pubDate>Sat, 29 Aug 2026 08:16:09 +0000</pubDate>
+            <link>https://github.com/oybekruziev/ruziev-aso-releases</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/oybekruziev/ruziev-aso-releases/main/Ruziev-ASO-Searcher-1.1.8.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/oybekruziev/ruziev-aso-releases/releases/download/v1.1.8/Ruziev-ASO-Searcher-1.1.8.zip" length="4153074" type="application/octet-stream" sparkle:edSignature="FV2BOEi+xtQJsCkg1y0uf/hTwfvkRXdOS8euiWAQTdRqJf8tSbRVTp4oGk7S9+Q/tIG2xie6Y500Nc201acfAQ=="/>
+        </item>
+        <item>
             <title>1.1.7</title>
             <pubDate>Mon, 24 Aug 2026 12:35:19 +0000</pubDate>
             <link>https://github.com/oybekruziev/ruziev-aso-releases</link>
@@ -44,16 +54,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/oybekruziev/ruziev-aso-releases/main/Ruziev-ASO-Searcher-1.1.4.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/oybekruziev/ruziev-aso-releases/releases/download/v1.1.4/Ruziev-ASO-Searcher-1.1.4.zip" length="4111891" type="application/octet-stream" sparkle:edSignature="M/ISTl1TxQhjKG/aTXn9CPUtFKdOGk2QDSR7kQXVhv0mIgCnFPc+VBmXEcNQg3r7wdVZLjaOhpjBcZ0HH/dfAg=="/>
-        </item>
-        <item>
-            <title>1.1.3</title>
-            <pubDate>Mon, 17 Aug 2026 19:21:43 +0000</pubDate>
-            <link>https://github.com/oybekruziev/ruziev-aso-releases</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/oybekruziev/ruziev-aso-releases/main/Ruziev-ASO-Searcher-1.1.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/oybekruziev/ruziev-aso-releases/releases/download/v1.1.3/Ruziev-ASO-Searcher-1.1.3.zip" length="4051237" type="application/octet-stream" sparkle:edSignature="QCLqoCLyP5LkmOfPN2ZOyRj+Zz0EFj5u4vbtGZUqU/vdKNwTU38L94B0VMGRiAAYja4+qdqr6dl3qwGsL57gBw=="/>
         </item>
     </channel>
 </rss>
